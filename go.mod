@@ -1,4 +1,4 @@
-module github.com/FloatTech/zbputils
+module github.com/AirAsuka/pbputils
 
 go 1.26.1
 
