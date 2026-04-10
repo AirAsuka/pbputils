@@ -1,6 +1,6 @@
 module github.com/AirAsuka/pbputils
 
-go 1.26.1
+go 1.24.2
 
 require (
 	github.com/FloatTech/ZeroBot-Plugin-Webui v1.0.1-0.20230412164529-cfe878675931
